@@ -1,0 +1,12 @@
+gamemodes:
+- Richano
+filterscripts:
+- main
+rcon_password: none
+port: 7777
+hostname: a samp server
+maxplayers: 10
+plugins:
+- mysql
+- sscanf
+- streamer
